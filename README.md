@@ -72,14 +72,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=VeikkaKosk&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VeikkaKosk&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="60%" />
 </div>
 
 ---
