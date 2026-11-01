@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Azure+%7C+Docker+%7C+Kubernetes;Future+Software+Engineer" />
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=VeikkaKosk&color=blue&style=for-the-badge)
 
 </div>
 
@@ -37,7 +37,7 @@
 ## 🛠 Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,firebase,mysql,azure,docker,kubernetes,git,github,java,cpp,c,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,js,ts,html,css,tailwind,kt,bash,powershell,cmake,markdown,php,react,nodejs,express,qt,unity,arduino,mysql,postgres,firebase,azure,docker,kubernetes,nginx,git,github,vscode,vim,pycharm,postman,npm,linux,ubuntu,windows,svg&perline=10" alt="Languages and Tools" />
 </p>
 
 ---
@@ -134,12 +134,12 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL">
+<a href="(https://www.linkedin.com/in/veikka-koskinen-614a6633a/)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
 
-📧 YOUR_EMAIL
+📧 veikka.koskinen@live.fi
 
 ---
 
